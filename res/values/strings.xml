@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, login!</string>
+    <string name="app_name">login</string>
+    <string name="login_1">登入程式</string>
+    <string name="logining">登入中，請稍後</string>
+    <string name="nocheckmoney_1">未匯款程式</string>
+    <string name="nocheckmoney">讀取資料中，請稍後</string>
+    <string name="ps_error">錯誤!!輸入錯誤的帳號或密碼...</string>
+    <string name="ps_null">錯誤!!未輸入帳號或密碼...</string>
+    <string name="booking_null">錯誤!!未輸入正確的資料...</string>
+    <string name="link_error">錯誤!!請檢查網路或url是否正確...</string>
+    <string name="money">取消匯款</string>
+    <string name="handler_1">取消</string>
+    <string name="handler_2">成功</string>    
+    <string name="handler_3">失敗</string>    
+    <string name="rec_list">訂單編號：</string>
+    <string name="room_list">房間編號：</string>
+    <string name="booking">訂房</string>
+    <string name="room_type">房型：</string>
+    <string name="error_booking">錯誤!!請選擇要訂的房間</string>
+    <string name="date_r">日期：</string>
+    <string name="phone">遊客電話：</string>
+    <string name="total_1">共</string>
+    <string name="total_2">間房            </string>
+    <string name="total_3">元</string>    
+</resources>
